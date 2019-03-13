@@ -1,17 +1,16 @@
-# Computational Background Skills for Digital Humanities
+# dh-project
+This the main README file for this project, which is done as an excercise during the course "AR Methodological Workshop - Computational Background Skills for Digital Humanities" at University of Vienna.
 
-This is the primary page, which I created in the course, so I can learn markdown.
+## Author(s)
+* **Name Surname** - [GitHub Profile](https://github.com/username)
 
-### Second Title
+## Built With
+* [HTML](https://www.w3.org/html/) - Hypertext Markup Language
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - ECMAScript standard
+* [CSS](https://www.w3.org/Style/CSS/) - Cascading Style Sheets
 
-What do I have to do:
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
-    1. Blödsinn
-    2. Unsinn
-    3. Schwachsinn
-    
-    
-* Liste 
-* noch ein Item
-
-
+## Acknowledgments
+* https://github.com/acdh-oeaw/Teaching_CBS4DH
