@@ -1,5 +1,5 @@
 # dh-project
-This the main README file for this project, which is done as an excercise during the course "AR Methodological Workshop - Computational Background Skills for Digital Humanities" at University of Vienna.
+This the main README file for this project, which is done as an excercise during the course "AR Methodological Workshop - Computational Background Skills for Digital Humanities" at University of Vienna including Git, Regular Expressions etc.
 
 ## Author(s)
 * **Name Surname** - [GitHub Profile](https://github.com/username)
@@ -14,3 +14,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 * https://github.com/acdh-oeaw/Teaching_CBS4DH
+
