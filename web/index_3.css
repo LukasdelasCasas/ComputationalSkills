@@ -1,0 +1,42 @@
+p {
+  color: red;
+  background-color: blue;
+}
+
+.beautiful {
+color: #e01616;
+background-color: ##46db4b; /* command */
+}
+
+.nice, .nice *{
+  border: 2px solid black;
+  border-spacing:0;
+  border-collapse: collapse;
+}
+
+.header * {           /* the `*` can also stand for the child elements. To change something you have to work with child elemetns*/
+  background-color:  gray;
+}
+
+#ourlist {
+background-color: yellow;
+
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
+
+.center {
+  margin: auto;
+  padding: 5px  /* alternatives are margin =outside of the border and padding= inside f the border, also can be created boxes in a webside with several html-div-tags*/
+  width: 50%;
+  text-align: center;
+  border: solid;
+}
+
+.out {
+  border: dashed;
+  width: 50%;
+}
